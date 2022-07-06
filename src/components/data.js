@@ -29,4 +29,4 @@ export const products = [
         "https://media.istockphoto.com/photos/blue-sneakers-isolated-on-white-background-picture-id1308274455?b=1&k=20&m=1308274455&s=170667a&w=0&h=S3UYmEJ1hUri2rB8jRhJ4wNY31lMrHysLHbl9YD8j_Q=",
       quantity: 10,
     },
-  ];
+];
