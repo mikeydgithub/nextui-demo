@@ -1,7 +1,6 @@
 import { Link } from '@nextui-org/react';
 import '../App.css';
 
-import React from 'react'
 
 const Navbar = () => {
   return (
